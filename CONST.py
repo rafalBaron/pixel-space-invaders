@@ -1,0 +1,10 @@
+screen_size = (1280,720)
+draw_screen_size = (320,180)
+framerate = 144
+player_speed = 2
+enemy_speed = 3
+border = 5
+move_ratio = 50
+projectile_speed = 2
+en_shot_ratio = 4000
+end_time = 400
